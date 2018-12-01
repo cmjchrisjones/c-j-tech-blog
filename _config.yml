@@ -1,1 +1,14 @@
+# Site Settings
+description: Musings of a software engineer based in Norfolk
+baseurl: "/c-j-tech-blog"
+url: "https://cmjchrisjones.github.io"
+
+# User Settings
+username: cmjchrisjones
+user_description: Software Engineer based in Norfolk, likes C# and .NET Core
+user_title: Software Engineer
+email: chris@c-j.tech
+twitter_username: cmjchrisjones
+github_username: cmjchrisjones
+
 theme: jekyll-theme-midnight
